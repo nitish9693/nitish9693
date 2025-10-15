@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Frontend developer | Learn backend development
+ MEAN Stack Developer
 
 
 ## 🌐 Socials:
